@@ -45,5 +45,5 @@ def download_file(url, folder):
     except Exception as e:
         print(f'Error: {str(e)}')
 
-website_url = "https://www.imagetotext.info/"
+website_url = "https://www.example.com/"
 download_website(website_url)
